@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "엉망진창 동굴"
+title                    : "제주도 동굴"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "원시인 컴고그"
+name                     : "컴고그"
 description              : "An amazing website."
 url                      : "https://comgog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -290,3 +290,4 @@ defaults:
       comments:  true
       share: true
       related: true
+      sidebar_main: true
