@@ -1,7 +1,7 @@
 ---
-title: "ALL Post"
+title: "Category"
 layout: categories
-permalink: /Tags/"
+permalink: /categories/
 author_profile: true
 sidebar_main: true
 ---

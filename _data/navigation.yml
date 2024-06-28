@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Home"
-    url: https://mmistakes.github.io
-  - title : "ALL Post"
+    url: https://comgog.github.io
+  - title : "All Post"
     url : /tags/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
